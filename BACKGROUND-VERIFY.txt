@@ -1,0 +1,4 @@
+Background image forced to public/rummy-bg-final-v5.jpeg
+Source image: 8215FA7F-925A-4B3D-AC1C-A046168C5361.jpeg
+Size bytes: 51545
+CSS contains: url('/rummy-bg-final-v5.jpeg')
