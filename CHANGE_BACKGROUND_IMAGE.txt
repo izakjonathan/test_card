@@ -1,0 +1,19 @@
+HOW TO CHANGE THE BACKGROUND IMAGE
+
+1. Open the project folder
+2. Go to:
+
+public/bg.jpg
+
+3. Replace bg.jpg with your own image
+4. Keep the filename exactly:
+
+bg.jpg
+
+5. Redeploy to Vercel
+
+Recommended:
+- portrait image
+- dark / cinematic
+- slightly blurred
+- around 1500–2500px wide
